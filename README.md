@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @userfanqiang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+---
+description: 英语语法，重塑语法体系
+coverY: 0
+layout: editorial
+---
 
-<!---
-userfanqiang/userfanqiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 英语基础语法
+
+## 句子成分
+
+首先就要明白的一个概念就是句子，从中文的语义上理解，就是能过表达一个完整的意思或者一个概念，如果从文章结构来看，两个句号“<mark style="color:red;">**.**</mark>**”**的东西就可以成为一个句子。
+
+最典型的错误就是按照长短句来划分句子，但实际上**time flys.** 就是一个完整的句子。而如下面这句话<mark style="color:red;">**一个头发长的，头发黑色的，直头发的女孩**</mark>&#x20;
