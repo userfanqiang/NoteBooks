@@ -64,13 +64,13 @@
 
 #### 1.1.2.1. 人称代词
 
-| 主格  | 宾格 | 形容词性物主代词 | 名词性物主代词 | 反身代词 |
-| :---: |:---:|:---:|:---:|:---:|
-|I|me|my|mine|myself|
-|you|you|your|yours|yourself|
-|he|him|his|his|himself|
-|she|her|her|hers|herself|
-|it|it|its|its|itself|
-|we|us|out|ours|ourselves|
-|you|you|your|yours|yourselves|
-|they|them|their|theirs|themselves|
+| 主格  | 宾格  | 形容词性物主代词 | 名词性物主代词 |  反身代词  |
+| :---: | :---: | :--------------: | :------------: | :--------: |
+|   I   |  me   |        my        |      mine      |   myself   |
+|  you  |  you  |       your       |     yours      |  yourself  |
+|  he   |  him  |       his        |      his       |  himself   |
+|  she  |  her  |       her        |      hers      |  herself   |
+|  it   |  it   |       its        |      its       |   itself   |
+|  we   |  us   |       out        |      ours      | ourselves  |
+|  you  |  you  |       your       |     yours      | yourselves |
+| they  | them  |      their       |     theirs     | themselves |
