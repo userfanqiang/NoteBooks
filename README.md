@@ -36,3 +36,7 @@
 | 专有名词 |      |       Tom       |
 |  the | rich |  --people--（笼统） |
 |  the | best | --student--（明显） |
+
+
+
+33333
